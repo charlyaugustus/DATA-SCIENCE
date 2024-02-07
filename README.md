@@ -15,3 +15,6 @@ Desafio Data Storytelling - Obtención de insights
 Sabiendo que creo que estaba adelantado con esta entrega, por lo que fui entregando antes, ahora fui agregando variables para mejorar los modelos y dejé las conclusiones. Si detecto que BALANCE estaba como O y lo paso a números.  #
 A partir de esto creo que se me abre otro panorame para seguir profundizando con esta variable. Además agregué un gráfico del Modelo II para tratar de
 entender si el modelo va a ser capaz de predecir. Falta profundizar que espero seguir adquiendo conocomiento para poder hacerlo. 
+
+Desafio Obtención de insights a partir de visualizaciones
+Agregué un power point con lo q consideré más iportante para hacer más interesante la historia. Cambié varias visualizaciones y fui limpiando el código. 
