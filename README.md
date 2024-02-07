@@ -17,4 +17,6 @@ A partir de esto creo que se me abre otro panorame para seguir profundizando con
 entender si el modelo va a ser capaz de predecir. Falta profundizar que espero seguir adquiendo conocomiento para poder hacerlo. 
 
 Desafio Obtención de insights a partir de visualizaciones
-Agregué un power point con lo q consideré más iportante para hacer más interesante la historia. Cambié varias visualizaciones y fui limpiando el código. 
+Agregué un power point con lo q consideré más iportante para hacer más interesante la historia. Cambié varias visualizaciones y fui limpiando el código.
+Estos son los archivos:   1- Obtencioninsights_OLIVERA.ipynb
+                          2- Predicción de pérdida de clientes bancarios.pptx
