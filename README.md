@@ -20,3 +20,6 @@ Desafio Obtención de insights a partir de visualizaciones
 Agregué un power point con lo q consideré más iportante para hacer más interesante la historia. Cambié varias visualizaciones y fui limpiando el código.
 Estos son los archivos:   1- Obtencioninsights_OLIVERA.ipynb
                           2- Predicción de pérdida de clientes bancarios.pptx
+                          
+Entrenando un algoritmo de Machine Learning
+Lo que hice es ir probando con modelos y con la variable Objetivo Exited
