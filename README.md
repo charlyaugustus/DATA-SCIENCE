@@ -26,3 +26,10 @@ Lo que hice es ir probando con modelos y con la variable Objetivo Exited
 
 Evaluando modelos de Machine Learning
 Acá mofiqué el Df para excuir columnas que no me servían para poder crear los modelos. Las nuevas variables fueron concatenando y diviendo una sobre otra. Además agregué nuevos gráficos que me permitieorn sacar nuevas conclusiones
+
+Desafio_featureselection_CARLOS_OLIVERA
+En esta entrega se aplicó :
+PCA combinado con  RandomForestClassifier para tener los mejores parámetros y entrenar el modelo
+Se probó combinar GRID SEARCH CON PCA para buscar los mejores parámetros y entrenar el modelo
+Se probó combinar Random Search Cross-Validation
+
