@@ -33,3 +33,6 @@ PCA combinado con  RandomForestClassifier para tener los mejores parámetros y e
 Se probó combinar GRID SEARCH CON PCA para buscar los mejores parámetros y entrenar el modelo
 Se probó combinar Random Search Cross-Validation
 
+CrossValidation y mejora de modelos de ML
+En esta entrega hice un upgrade de scikit-learn y pruebo con HalvingRandomSearchCV donde mejora apenas el %. Intentaré probar con
+HyperOpt-Sklearn el cual requiere varias instalaciones y upgrades que estoy estudiando como hacerlo. 
